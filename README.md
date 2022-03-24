@@ -1,2 +1,2 @@
-# project
+# Мой проект
 first project
