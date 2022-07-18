@@ -1,2 +1,2 @@
-# project
-first project
+# Git Instruction
+Инструкция по GIT
