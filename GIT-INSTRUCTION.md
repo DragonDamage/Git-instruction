@@ -1,5 +1,5 @@
 # Инструкция по GIT на простом языке:
-GIT by DragonDamege
+GIT by DragonDamage
 
 ### Ссылки на скачивание самого ПО:
 
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
 `$ git commit –m “add change”` – коммитим и ставим комментарий
 
-`$ git push –u origin develop` или `master` – заливаем (пушим) изменения на ветку develop или master
+`$ git push –u origin develop` или `master` – заливаем (пушим) изменения на ветку `develop` или `master`
 
 ### Готово :+1:
 
