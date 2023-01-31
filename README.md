@@ -143,3 +143,13 @@ node.js
 > Полезно для твоей ветки `master` в github.com (чтобы никто не сделал force push master)
 
 #### Settings -> Branches -> Add rule -> вводим: master -> create
+
+## Возможные ошибки и их решения:
+
+Ошибка - `error: failed to push some refs to 'git@github.com:DragonDamage/Ansible.git'`
+
+Решение ошибки при пуше в репу:
+
+`$ git pull --rebase origin main`
+`$ git push -u origin main`
+
