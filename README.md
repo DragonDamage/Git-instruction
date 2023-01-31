@@ -144,6 +144,7 @@ node.js
 
 #### Settings -> Branches -> Add rule -> вводим: master -> create
 
+
 ## Возможные ошибки и их решения:
 
 Ошибка - `error: failed to push some refs to 'git@github.com:DragonDamage/Ansible.git'`
@@ -151,5 +152,6 @@ node.js
 Решение ошибки при пуше в репу:
 
 `$ git pull --rebase origin main`
+
 `$ git push -u origin main`
 
